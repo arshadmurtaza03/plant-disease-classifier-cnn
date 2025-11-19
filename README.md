@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection using CNN
+# 🌿 Plant Disease Classifier using CNN
 
 A deep learning project that detects plant diseases from leaf images using Convolutional Neural Networks (CNN).
 
@@ -132,7 +132,7 @@ The CNN model consists of:
 
 - **Validation Accuracy**: 88.29%
 - **Number of Classes**: 38
-- **Training Time**: ~50-60 minutes for **10** EPOCHS Google Colab T4 GPU
+- **Training Time**: ~50-60 minutes for **10** EPOCHS in Google Colab T4 GPU
 
 ## 📚 What I Learned
 - **Deep Learning Basics** :Learned how CNNs extract image features using layers like convolution, pooling, and dense blocks.
