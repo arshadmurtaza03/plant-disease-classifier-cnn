@@ -22,10 +22,10 @@ This project uses a custom CNN model trained on the **New Plant Diseases Dataset
 
 ## 📊 Dataset
 
-**Dataset Name**: New Plant Diseases Dataset (Augmented)
-**Source**: [Kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
-**Classes**: 38 different plant disease categories
-**Total Images**: 87,000+ images
+- **Dataset Name**: New Plant Diseases Dataset (Augmented)
+- **Source**: [Kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+- **Classes**: 38 different plant disease categories
+- **Total Images**: 87,000+ images
 
 The dataset includes common diseases affecting plants like:
 - Tomato diseases (Late Blight, Early Blight, etc.)
