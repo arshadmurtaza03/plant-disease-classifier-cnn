@@ -134,6 +134,16 @@ The CNN model consists of:
 - **Number of Classes**: 38
 - **Training Time**: ~50-60 minutes for **10** EPOCHS Google Colab T4 GPU
 
+## 📚 What I Learned
+- **Deep Learning Basics** :Learned how CNNs extract image features using layers like convolution, pooling, and dense blocks.
+- **Data Prep & Augmentation** : Understood how to clean, split, and augment image datasets for better model performance.
+- **Cloud GPU Training** : Practiced training models on Google Colab using T4 GPUs and managing datasets through the Kaggle API.
+
+## 🎓 Future Improvements
+- Try transfer learning (ResNet, MobileNet)
+- Add more plant species
+- Improve UI/UX
+
 ## How to contact
 - Author: Arshad Murtaza
 - Email: arshadmurtaza2016@gmail.com
