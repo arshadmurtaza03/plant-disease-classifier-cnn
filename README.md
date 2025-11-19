@@ -130,7 +130,7 @@ The CNN model consists of:
 
 ## 📈 Model Performance
 
-- **Validation Accuracy**: 88.29%
+- **Validation Accuracy**: **88.29%**
 - **Number of Classes**: 38
 - **Training Time**: ~50-60 minutes for **10** EPOCHS in Google Colab T4 GPU
 
